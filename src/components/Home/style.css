@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;500&family=Lato:wght@300&family=Manrope:wght@200&family=Poppins:wght@200&family=Roboto+Mono:wght@100&family=Roboto:ital,wght@0,500;1,300&display=swap');
+.Home-option{
+    
+    margin-top: 68px;
+    margin-left: 102px;
+}
+.Home-option ul{
+    display: inline-flex;
+    gap: 4px;
+align-items: center;
+}
+.Hom{
+    width: 30px;
+height: 30px;
+}
+.arr{
+    width: 24px;
+height: 24px;
+}
+li{
+    color: #696671;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.special{
+    color: #06286E;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.relation{
+    height: 39px;
+background: linear-gradient(180deg, #06286E 0%, #164EC0 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+width: fit-content;
+margin-left: 105px;
+margin-top: 64px;
+}
+.relation .content{
+   text-align: center;
+font-family: Montserrat;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.Study{
+    width: fit-content;
+    height: auto;
+}
+.Study ul{
+    display: inline-flex;
+justify-content: center;
+align-items: center;
+gap: 40px;
+margin-top: 56px;
+margin-left: 443px;
+
+height: 29px;
+}
+li.Frame-25{
+    
+    color: #06286E;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+flex-direction: column;
+align-items: center;
+
+}
+li.Frame-25-different{
+    color: #696671;
+leading-trim: both;
+text-edge: cap;
+
+/* 20 med */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Frame-25-different .Line-11{
+ color: #FFFFFF;
+}
+
+
