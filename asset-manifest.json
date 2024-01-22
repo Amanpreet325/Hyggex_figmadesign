@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hyggex_figmadesign/static/css/main.412decdc.css",
+    "main.js": "/Hyggex_figmadesign/static/js/main.a70f58e2.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Hyggex_figmadesign/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logog.png": "/Hyggex_figmadesign/static/media/logog.93fe208ceab5f56ef05f.png",
+    "static/media/logii.png": "/Hyggex_figmadesign/static/media/logii.826cc6823b57a4ea0008.png",
+    "static/media/logo.png": "/Hyggex_figmadesign/static/media/logo.57a5e453490ce940f31a.png",
+    "static/media/logo.svg": "/Hyggex_figmadesign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hyggex_figmadesign/index.html",
+    "main.412decdc.css.map": "/Hyggex_figmadesign/static/css/main.412decdc.css.map",
+    "main.a70f58e2.js.map": "/Hyggex_figmadesign/static/js/main.a70f58e2.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Hyggex_figmadesign/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412decdc.css",
+    "static/js/main.a70f58e2.js"
+  ]
+}
